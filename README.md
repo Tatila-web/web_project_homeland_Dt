@@ -2,11 +2,12 @@
 
 Projeto 5:
 
-TripleTen Art Gallery
+De Pátria para Pátria
 
 Descrição:
 
 Layout responsivo.
+
 Desenvolvido seguindo a metodologia BEM.
 
 BEM flat para arquivos.
