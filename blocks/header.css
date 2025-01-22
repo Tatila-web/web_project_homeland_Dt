@@ -9,7 +9,8 @@
   padding-top: 34px;
 }
 
-@media screen and (max-width: 768px) {
+
+@media screen and (max-width: 1024px) {
   .header {
     display: flex;
   }
@@ -20,14 +21,11 @@
     padding-top: 30px;
   }
 }
-@media screen and (max-width: 320px) {
-  .header {
-    display: flex;
-  }
+
+@media screen and (max-width: 544px) {
   .header__logo {
     min-width: 188px;
     max-width: 52px;
-    margin: 0 auto;
     padding-top: 20px;
   }
 }
