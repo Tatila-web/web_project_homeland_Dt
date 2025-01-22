@@ -8,6 +8,8 @@ Descrição:
 
 Layout responsivo.
 Desenvolvido seguindo a metodologia BEM.
+
 BEM flat para arquivos.
+
 Flexbox para estilização.
 
