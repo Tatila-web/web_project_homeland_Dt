@@ -1,0 +1,13 @@
+.gallery {
+  max-width: 100%;
+  min-height: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 16px;
+  margin: 118px auto 0;
+}
+.gallery__image {
+  max-width: 100%;
+  max-height: 100%;
+}
