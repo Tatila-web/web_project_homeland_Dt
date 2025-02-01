@@ -32,3 +32,4 @@ trim_trailing_whitespace = false
 # Denota se o arquivo deve terminar com uma nova linha
 # Valores possíveis — true, false
 insert_final_newline = true
+
