@@ -12,7 +12,8 @@ Desenvolvido seguindo a metodologia BEM.
 
 BEM flat para arquivos.
 
-Flexbox para estilização.
+Flexbox e Display Grid para estilização.
+
 
 https://tatila-web.github.io/web_project_homeland_TSD/
 
